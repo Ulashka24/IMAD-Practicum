@@ -5,6 +5,7 @@ In the Main menu you are welcomed with this inviting screen where all the detail
 You click onto the plain texts and enter the information as instructed. There is a limit to the number of entries allowed. 
 The total number of entries allowed is 7.
 Here in the detail view screen, is where all of your information will land up. So, everything that was entered into the previous screen will be displayed here. 
+I have added a power point presentation onto gitHub as well as onto brightspace with a github link.
 
 Pseudocode for the app:
 Start
